@@ -4,17 +4,21 @@ _your zenodo badge here_
 
 **A long-term global energy-economic model of carbon dioxide release from fossil fuel use**
 
-Jae Edmonds<sup>1\*</sup> and John Reilly<sup>1</sup>
+Eva Sinha1<sup>1\*</sup>, Katherine V. Calvin<sup>2</sup>, Page G. Kyle<sup>2</sup>, Mohamad I. Hejazi2<sup>2</sup>, Stephanie T. Waldhoff<sup>2</sup>, Maoyi Huang<sup>1</sup>, Srishti Vishwakarma<sup>3</sup>, and Xin Zhang<sup>3</sup>
 
-<sup>1 </sup> Institute for Energy Analysis, Oak Ridge Associated Universities, 1346 Connecticut Avenue, NW, Washington, DC 20036, USA
+<sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA, 99352, USA.
+<sup>2 </sup> Joint Global Change Research Institute, College Park, MD, 20740, USA.
+<sup>3 </sup> University of Maryland Center for Environmental Science, Frostburg, MD, 21532, USA
 
-\* corresponding author:  email@myorg.gov
+\* corresponding author:  eva.sinha@pnnl.gov
 
 ## Abstract
-In this paper the authors develop a long-term global energy-economic model which is capable of assessing alternative energy evolutions over periods of up to 100 years. The authors have sought to construct the model so that it can perform its assigned task with as simple a modelling system as possible. The model structure is fully documented and a brief summary of results is given.
+Since the 1950's, global fertilizer usage has increased by more than 800% resulting in detrimental impacts to the environment. The projected increase in crop production due to increasing demands for food, feed, biofuel, and other uses, may further increase fertilizer usage. Studies have examined achieving agricultural intensification in environmentally sustainable ways, however, they have not focused on the whole-system economic aspects of changes in fertilizer usage over the long term. We utilize the Global Change Analysis Model (GCAM) to explore the impact of reducing global fertilizer usage on land use change, agricultural commodity price and production, energy production, and greenhouse gas emissions. We find that constrained fertilizer availability results in reduced global cropland area, particularly land used for bioenergy production, and expanded forested area. These results are driven by price impacts which lead to shifts in agricultural production between commodity types, regions, and technologies, and which lead to decreased agricultural commodity demands.
+
 
 ## Journal reference
-Edmonds, J., & Reilly, J. (1983). A long-term global energy-economic model of carbon dioxide release from fossil fuel use. Energy Economics, 5(2), 74-88. DOI: https://doi.org/10.1016/0140-9883(83)90014-2
+Sinha, E., Calvin, K. V., Kyle, P. G., Hejazi, M. I., Waldhoff, S. T., Huang, M., et al. (2022). Implication of imposing fertilizer limitations on energy, agriculture, and land systems. Journal of Environmental Management, 305, 114391. https://doi.org/10.1016/j.jenvman.2021.114391
+
 
 ## Code reference
 References for each minted software release for all code involved.  
