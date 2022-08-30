@@ -31,7 +31,7 @@ Sinha, E., Calvin, K. V., Kyle, P. G., Hejazi, M. I., Waldhoff, S. T., Huang, M.
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
-| `run-scenarios-gcam.sh` | Script to run GCAM with the provided configuration files. This script and the four configuration files should be placed in `gcam-core/exe` folder | `./run-scenarios-gcam.sh` |
+| `run-scenarios-gcam.sh` | Script to run GCAM with the provided configuration files. This script and the four configuration files should be placed in `gcam-core/exe` folder and the two policy files (`carbon_tax_25_5_fert_ceiling_global_const_15_per.xml` and `fert_ceiling_global_const_15_per.xml`) shoule be placed in `gcam-core/input/policy` folder| `./run-scenarios-gcam.sh` |
 | `fert_constrain_create_proj_file.R` | Script for creating project data by reading outputs of GCAM runs that are stored in GCAM database  | `Rscript fert_constrain_create_proj_file.R` |
 
 
