@@ -45,8 +45,6 @@ Human, I.M. (2021). My output dataset name [Data set]. DataHub. https://doi.org/
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | model 1 | version | link to code repository | link to DOI dataset |
-| model 2 | version | link to code repository | link to DOI dataset |
-| component 1 | version | link to code repository | link to DOI dataset |
 
 ## Reproduce my experiment
 Fill in detailed info here or link to other documentation that is a thorough walkthrough of how to use what is in this repository to reproduce your experiment.
@@ -69,8 +67,22 @@ Fill in detailed info here or link to other documentation that is a thorough wal
 | `compare.py` | Script to compare my outputs to the original | `python3 compare.py --orig /path/to/original/data.csv --new /path/to/new/data.csv` |
 
 ## Reproduce my figures
-Use the scripts found in the `figures` directory to reproduce the figures used in this publication.
+Use the following scripts found in the `workflow` directory to reproduce the figures used in this publication.
 
 | Script Name | Description | How to Run |
 | --- | --- | --- |
-| `generate_figures.py` | Script to generate my figures | `python3 generate_figures.py -i /path/to/inputs -o /path/to/outuptdir` |
+| `Figure1.py` | Script to generate Figure 1 | `python Figure1.py` |
+| `Figure2.py` | Script to generate Figure 2 | `python Figure2.py` |
+| `Figure3.py` | Script to generate Figure 3 | `python Figure3.py` |
+| `Figure4.py` | Script to generate Figure 4 | `python Figure4.py` |
+| `Figure5.py` | Script to generate Figure 5 | `python Figure5.py` |
+| `Figure7.py` | Script to generate Figure 7 | `python Figure7.py` |
+| `FigureS1.py` | Script to generate Figure S1 | `python FigureS1.py` |
+| `FigureS2.py` | Script to generate Figure S2 | `python FigureS2.py` |
+| `FigureS3.py` | Script to generate Figure S3 | `python FigureS3.py` |
+
+| `FigureS5.py` | Script to generate Figure S5 | `python FigureS5.py` |
+| `FigureS6.py` | Script to generate Figure S6 | `python FigureS6.py` |
+| `FigureS10.py` | Script to generate Figure S10 | `python FigureS10.py` |
+| `FigureS11.py` | Script to generate Figure S11 | `python FigureS11.py` |
+
